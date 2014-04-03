@@ -1,9 +1,9 @@
-Building Litecoin
+Building Deve
 
 See doc/readme-qt.rst for instructions on building Litecoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Deve.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building deved,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Deve.
