@@ -16,7 +16,7 @@ if [ -f wallet.dat -a -f peers.dat -a -f chainstate/CURRENT -a -f blocks/index/C
 
 case $LEVEL in
   0)
-    echo "Error: no Bitcoin datadir detected."
+    echo "No Bitcoin datadir detected."
     exit 1
     ;;
   1)
